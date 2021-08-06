@@ -22,5 +22,6 @@
 | _Day 2_ | [_Hello, Python (Python Lesson 1)_](Activities/Day%20%2302) |
 | _Day 3_ | [_Functions and Getting Help (Python Lesson 2)_](Activities/Day%20%2303) |
 | _Day 4_ | [_Booleans and Conditionals (Python Lesson 3)_](Activities/Day%20%2304) |
+| _Day 5_ | [_Lists, Loops & List Comprehensions (Python Lessons 4 & 5)_](Activities/Day%20%2305) |
 ---
 
