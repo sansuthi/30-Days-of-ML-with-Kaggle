@@ -23,5 +23,6 @@
 | _Day 3_ | [_Functions and Getting Help (Python Lesson 2)_](Activities/Day%20%2303) |
 | _Day 4_ | [_Booleans and Conditionals (Python Lesson 3)_](Activities/Day%20%2304) |
 | _Day 5_ | [_Lists, Loops & List Comprehensions (Python Lessons 4 & 5)_](Activities/Day%20%2305) |
+| _Day 6_ | [_Strings and Dictionaries (Python Lesson 6)_](Activities/Day%20%2306) |
 ---
 
