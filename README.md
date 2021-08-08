@@ -24,5 +24,6 @@
 | _Day 4_ | [_Booleans and Conditionals (Python Lesson 3)_](Activities/Day%20%2304) |
 | _Day 5_ | [_Lists, Loops & List Comprehensions (Python Lessons 4 & 5)_](Activities/Day%20%2305) |
 | _Day 6_ | [_Strings and Dictionaries (Python Lesson 6)_](Activities/Day%20%2306) |
+| _Day 7_ | [_Working with External Libraries (Python Lesson 7)_](Activities/Day%20%2307) |
 ---
 
