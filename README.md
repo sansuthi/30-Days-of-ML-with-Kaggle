@@ -16,14 +16,14 @@
 #### 🏆 _Competition prizes (Kaggle Swag for top 10 teams on leaderboard)_  
 ---
 ## _Daily Activities_
-|        | _Activity_    |
-| ------ | :---------- |
-| _Day 1_ | [_Level up to Contributor_](Activities/Day%20%2301) |
-| _Day 2_ | [_Hello, Python (Python Lesson 1)_](Activities/Day%20%2302) |
-| _Day 3_ | [_Functions and Getting Help (Python Lesson 2)_](Activities/Day%20%2303) |
-| _Day 4_ | [_Booleans and Conditionals (Python Lesson 3)_](Activities/Day%20%2304) |
-| _Day 5_ | [_Lists, Loops & List Comprehensions (Python Lessons 4 & 5)_](Activities/Day%20%2305) |
-| _Day 6_ | [_Strings and Dictionaries (Python Lesson 6)_](Activities/Day%20%2306) |
-| _Day 7_ | [_Working with External Libraries (Python Lesson 7)_](Activities/Day%20%2307) |
+|        | _Activity_    | |
+| ------ | :---------- | :--- |
+| _Day 1_ | [_Level up to Contributor_](Activities/Day%20%2301) | |
+| _Day 2_ | [_Hello, Python (Python Lesson 1)_](Activities/Day%20%2302) | |
+| _Day 3_ | [_Functions and Getting Help (Python Lesson 2)_](Activities/Day%20%2303) | |
+| _Day 4_ | [_Booleans and Conditionals (Python Lesson 3)_](Activities/Day%20%2304) | |
+| _Day 5_ | [_Lists, Loops & List Comprehensions (Python Lessons 4 & 5)_](Activities/Day%20%2305) | |
+| _Day 6_ | [_Strings and Dictionaries (Python Lesson 6)_](Activities/Day%20%2306) | |
+| _Day 7_ | [_Working with External Libraries (Python Lesson 7)_](Activities/Day%20%2307) | [_Python_](Certificates/Python.png) |
 ---
 
