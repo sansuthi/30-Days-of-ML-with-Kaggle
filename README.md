@@ -16,17 +16,17 @@
 #### 🏆 _Competition prizes (Kaggle Swag for top 10 teams on leaderboard)_  
 ---
 ## _Daily Activities_
-|        | _Activity_    | | |
-| ------ | :---------- | :--- | :--- |
-| _Week 1_ | _Day 1_ | **_Level up to Contributor_** |[_Profile_](Activities/Day%20%2301)  |
-|| | **_Course : Python_** | |
-|| _Day 2_ | _Hello, Python_ |[_Lesson 1_](Activities/Day%20%2302) |
-|| _Day 3_ | _Functions and Getting Help_ | [_Lesson 2_](Activities/Day%20%2303) | |
-|| _Day 4_ | [_Booleans and Conditionals (Python Lesson 3)_](Activities/Day%20%2304) | |
-|| _Day 5_ | [_Lists, Loops & List Comprehensions (Python Lessons 4 & 5)_](Activities/Day%20%2305) | |
-|| _Day 6_ | [_Strings and Dictionaries (Python Lesson 6)_](Activities/Day%20%2306) | |
-|| _Day 7_ | [_Working with External Libraries (Python Lesson 7)_](Activities/Day%20%2307) | [_Python_](Certificates/Python.png) |
-| _Week 2_ | |_Course : Intro to ML_ | |
-|| _Day 8_ | [_How Models Work (Lesson 1)_](Activities/Day%20%2307) <br> _Basic Data Exploration (Lesson 2)_ | [_Python_](Certificates/Python.png) |
+|        | _Course_ | _Day_ | _Activity_ | 
+| ------ | :---------- | :--- |  :--- |
+| **_Week 1_** || _01_ | [_Level up to Contributor_](Activities/Day%20%2301) | 
+|| **_[Python](Certificates/Python.png)_** | _02_ | _Lesson 1: [Hello, Python](Activities/Day%20%2302)_ |
+||| _03_ |_Lesson 2: [Functions and Getting Help](Activities/Day%20%2303)_ |
+||| _04_ | _Lesson 3: [Booleans and Conditionals](Activities/Day%20%2304)_ |
+||| _05_ | _Lesson 4: [Lists](Activities/Day%20%2305) <br> Lesson 5: [Loops & List Comprehensions](Activities/Day%20%2305)_ |
+||| _06_ | _Lesson 6: [Strings and Dictionaries](Activities/Day%20%2306)_ |
+||| _07_ | _Lesson 7: [Working with External Libraries](Activities/Day%20%2307)_ |
+| **_Week 2_** | **_[Intro to ML](Certificates/Python.png)_** | _08_ | _Lesson 1: [How Models Work](Activities/Day%20%2308) <br> Lesson 2: [Basic Data Exploration](Activities/Day%20%2308)_| 
+||| _09_ | _Lesson 3: [Your First Machine Learning Model](Activities/Day%20%2309) <br> Lesson 4: [Model Validation](Activities/Day%20%2309)_| 
+||| _10_ | _Lesson 5: [](Activities/Day%20%2310) <br> Lesson 6: [](Activities/Day%20%2310)_| 
 ---
 
