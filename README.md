@@ -19,14 +19,21 @@
 |        | _Course_ | _Day_ | _Activity_ | 
 | ------ | :---------- | :--- |  :--- |
 | **_Week 1_** || _01_ | [_Level up to Contributor_](Activities/Day%20%2301) | 
-|| **_[Python](Certificates/Python.png)_** | _02_ | _Lesson 1: [Hello, Python](Activities/Day%20%2302)_ |
+|| **_Python_** | _02_ | _Lesson 1: [Hello, Python](Activities/Day%20%2302)_ |
 ||| _03_ |_Lesson 2: [Functions and Getting Help](Activities/Day%20%2303)_ |
 ||| _04_ | _Lesson 3: [Booleans and Conditionals](Activities/Day%20%2304)_ |
 ||| _05_ | _Lesson 4: [Lists](Activities/Day%20%2305) <br> Lesson 5: [Loops and List Comprehensions](Activities/Day%20%2305)_ |
 ||| _06_ | _Lesson 6: [Strings and Dictionaries](Activities/Day%20%2306)_ |
 ||| _07_ | _Lesson 7: [Working with External Libraries](Activities/Day%20%2307)_ |
-| **_Week 2_** | **_[Intro to ML](Certificates/Python.png)_** | _08_ | _Lesson 1: [How Models Work](Activities/Day%20%2308) <br> Lesson 2: [Basic Data Exploration](Activities/Day%20%2308)_| 
-||| _09_ | _Lesson 3: [Your First Machine Learning Model](Activities/Day%20%2309) <br> Lesson 4: [Model Validation](Activities/Day%20%2309)_| 
-||| _10_ | _Lesson 5: [Underfitting and Overfitting](Activities/Day%20%2310) <br> Lesson 6: [Random Forests](Activities/Day%20%2310)_| 
+| **_Week 2_** | **_Intro to ML_** | _08_ | _Lesson 1: [How Models Work](Activities/Day%20%2308) <br> Lesson 2: [Basic Data Exploration](Activities/Day%20%2308)_ | 
+||| _09_ | _Lesson 3: [Your First Machine Learning Model](Activities/Day%20%2309) <br> Lesson 4: [Model Validation](Activities/Day%20%2309)_ | 
+||| _10_ | _Lesson 5: [Underfitting and Overfitting](Activities/Day%20%2310) <br> Lesson 6: [Random Forests](Activities/Day%20%2310)_ | 
+||| _11_ | _Lesson 7: [Machine Learning Competitions](Activities/Day%20%2311)_ |
+|| **_Intermediate ML_** | _12_ | _Lesson 1: [Introduction](Activities/Day%20%2312) <br> Lesson 2: [Missing Values](Activities/Day%20%2312) <br> Lesson 3: [Categorical Values](Activities/Day%20%2312)_|
 ---
+## _Achievements_
+_Python_ | _Intro to ML_ |
+:-----------------------:|:-------------------------:|
+![](Certificates/Python.png) | ![](Certificates/Intro_to_ML.png)|
 
+---
