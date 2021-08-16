@@ -36,5 +36,5 @@
 ## _Achievements_
 _Python_ | _Intro to ML_ | _Intermediate ML_ | 
 :-----------------------:|:-------------------------:|:-------------------------:|
-![](Certificates/Python.png) | ![](Certificates/Intro_to_ML.png) | ![](Certificates/Intermediate_ML.png.png) |
+![](Certificates/Python.png) | ![](Certificates/Intro_to_ML.png) | ![](Certificates/Intermediate_ML.png) |
 ---
