@@ -37,6 +37,7 @@
 _Python_ | _Intro to ML_ | 
 :---------------:|:------------:|
 ![](Certificates/Python.png) | ![](Certificates/Intro_to_ML.png) | 
+
  _Intermediate ML_ |
  :------------:|
  ![](Certificates/Intermediate_ML.png) |
