@@ -34,7 +34,7 @@
 ||| _14_ <br> <br> | _Lesson 6: [XGBoost](Activities/Day%20%2314) <br> Lesson 7: [Data Leakage](Activities/Day%20%2314)_ | 
 ---
 ## _Achievements_
-_Python_ | _Intro to ML_ | _Intermediate ML_ |
+_Python_ | _Intro to ML_ | _Intermediate ML_ | 
 :-----------------------:|:-------------------------:|:-------------------------:|
-![](Certificates/Python.png) | ![](Certificates/Intro_to_ML.png) | ![](Certificates/Intro_to_ML.png) |
+![](Certificates/Python.png) | ![](Certificates/Intro_to_ML.png) | ![](Certificates/Intermediate_ML.png.png) |
 ---
