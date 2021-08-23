@@ -32,7 +32,8 @@
 || **_Intermediate ML_** <br> <br> <br>| _12_ <br> <br> <br> | _Lesson 1: [Introduction](Activities/Day%20%2312) <br> Lesson 2: [Missing Values](Activities/Day%20%2312) <br> Lesson 3: [Categorical Values](Activities/Day%20%2312)_|
 ||| _13_ <br> <br> | _Lesson 4: [Pipelines](Activities/Day%20%2313) <br> Lesson 5: [Cross-Validation](Activities/Day%20%2313)_ | 
 ||| _14_ <br> <br> | _Lesson 6: [XGBoost](Activities/Day%20%2314) <br> Lesson 7: [Data Leakage](Activities/Day%20%2314)_ | 
-| **_Week 3_** | | _15 - 30_ | _[Get started with the competition](Activities/Day%20%2315)_ | 
+| **_Week 3_** | | _15 - 21_ | _[Get started with the competition](Activities/Day%20%2315)_ | 
+| **_Week 4_** | | _22 - 30_ | | 
 ---
 ## _Achievements_
 _Python_ | _Intro to ML_ |  _Intermediate ML_ |
