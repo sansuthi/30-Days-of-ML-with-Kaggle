@@ -17,7 +17,7 @@
 ---
 ## _Daily Activities_
 |        | _Course_ | _Day_ | _Activity_ | 
-| ------ | :---------- | :--- |  :--- |
+| ------ | :----------: | :--- |  :--- |
 | **_Week 1_** || _01_ | [_Level up to Contributor_](Activities/Day%20%2301) | 
 || **_Python_** | _02_ | _Lesson 1: [Hello, Python](Activities/Day%20%2302)_ |
 ||| _03_ |_Lesson 2: [Functions and Getting Help](Activities/Day%20%2303)_ |
@@ -32,8 +32,9 @@
 || **_Intermediate ML_** <br> <br> <br>| _12_ <br> <br> <br> | _Lesson 1: [Introduction](Activities/Day%20%2312) <br> Lesson 2: [Missing Values](Activities/Day%20%2312) <br> Lesson 3: [Categorical Values](Activities/Day%20%2312)_|
 ||| _13_ <br> <br> | _Lesson 4: [Pipelines](Activities/Day%20%2313) <br> Lesson 5: [Cross-Validation](Activities/Day%20%2313)_ | 
 ||| _14_ <br> <br> | _Lesson 6: [XGBoost](Activities/Day%20%2314) <br> Lesson 7: [Data Leakage](Activities/Day%20%2314)_ | 
-| **_Week 3_** | | _15 - 21_ | _[Get started with the competition](Activities/Day%20%2315)_ | 
-| **_Week 4_** | | _22 - 30_ | _[Extracurricular Workshops](Activities/Day%20%2322)_ | 
+| **_Week 3_** | **___** | _15 - 21_ | _[Get started with the competition](Activities/Day%20%2315)_ | 
+| **_Week 4_** | **___** | _22 - 29_ | _[Extracurricular Workshops](Activities/Day%20%2322)_ | 
+||| _30_ | _[End of the Program](Activities/Day%20%2330)_ |
 ---
 ## _Achievements_
 _Python_ | _Intro to ML_ |  _Intermediate ML_ |
